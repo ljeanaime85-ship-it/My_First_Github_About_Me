@@ -1,0 +1,26 @@
+h1 {
+	color: #000000;
+	font-size: 36px;
+	font-weight: bolder;
+}
+
+p{
+	color:#000000;
+}
+
+.introline{
+	font-weight:medium;
+}
+
+.personal{
+	color:#4A3D2C;
+	font-weight: medium;
+}
+
+li{
+	font-weight: bold;
+}
+
+body{
+	background-color: #F7C897;
+}
